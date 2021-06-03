@@ -6,5 +6,5 @@ Covers different modules to facilitate the familiarity with coding.
 I'm working on this and will add different chapters with passage of time.
 <br/><br/>
 ## Chapter -3 : Functions
-
+##Chapter -3
 
